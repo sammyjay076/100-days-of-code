@@ -3,9 +3,17 @@ Day 1: December 12, 2023
  **Today's Progress**: I started with HTML. Used header elements and paragraph elements
  **Thoughts:** It has been very long since i learned HTML. Though I've used it before, I still have to commit to it as if i were a beginner.
 
- Day 1: December 12, 2023
+ Day 2: December 12, 2023
  **Today's Progress**: Continued with HTML. Used header,paragraph,link,image,ordered list and unordered list elements
  **Thoughts:**  Each day I'm learning something new. I'm excited to learn more.
+
+  Day 3: December 12, 2023
+ **Today's Progress**: created a cafe menu with basic html elements and some css stylings
+ **Thoughts:**  <></>
+
+  Day 4: December 12, 2023
+ **Today's Progress**: Continued with HTML. Used the already learnt elements and stylings to create a dummy landing page
+ **Thoughts:**  Each day I'm learning something new. I need to commit more time each day
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
